@@ -7,7 +7,6 @@ import Flipkart from '../assets/flipkart.png';
 import Byjus from '../assets/byjus.png';
 import Footer from '../components/Footer';
 export default function Home() {
-    // const clients=['../assets/recruiter-banner.svg','../assets/amazon.png','../assets/lenskart.png','../assets/flipkart.png','../assets/byjus.png']
     return (
         <div>
             <div className='p-5'>
