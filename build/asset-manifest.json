@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.745bced7.css",
+    "main.js": "/static/js/main.72461a1b.js",
+    "static/js/787.f2a0fa2f.chunk.js": "/static/js/787.f2a0fa2f.chunk.js",
+    "static/media/recruiter-banner.svg": "/static/media/recruiter-banner.1c745d2a6153dd00f188370f1e6fd728.svg",
+    "index.html": "/index.html",
+    "main.745bced7.css.map": "/static/css/main.745bced7.css.map",
+    "main.72461a1b.js.map": "/static/js/main.72461a1b.js.map",
+    "787.f2a0fa2f.chunk.js.map": "/static/js/787.f2a0fa2f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.745bced7.css",
+    "static/js/main.72461a1b.js"
+  ]
+}
